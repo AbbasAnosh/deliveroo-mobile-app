@@ -123,5 +123,5 @@ const styles = StyleSheet.create({
     padding: 10,
     color: Colors.mediumDark,
   },
-  searchIcon: { paddingLeft: 10 },
+  searchIcon: { paddingLeft: 10, fontWeight: "bold" },
 });
